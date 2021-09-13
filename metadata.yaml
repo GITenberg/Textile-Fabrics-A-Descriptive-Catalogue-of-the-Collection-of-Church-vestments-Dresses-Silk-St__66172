@@ -1,0 +1,27 @@
+_repo: Textile-Fabrics-A-Descriptive-Catalogue-of-the-Collection-of-Church-vestments-Dresses-Silk-St__66172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rock, Daniel
+    birthdate: 1799
+    deathdate: 1871
+    gutenberg_agent_id: '50734'
+    url: http://www.gutenberg.org/2009/agents/50734
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Rock
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66172'
+  lccn: '12023610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Textile fabrics'
+- !lcc 'NK'
+- !lcsh 'Art objects -- England -- London -- Catalogs'
+- GITenberg
+title: "Textile Fabrics\r\nA Descriptive Catalogue of the Collection of Church-vestments,\
+  \ Dresses, Silk Stuffs, Needlework and Tapestries, forming that Section of the Museum"
+url: http://www.gutenberg.org/ebooks/66172
